@@ -3,11 +3,31 @@ body{
   padding: 0;
 }
 
-div.container{
-  width: 1160px;
-  margin: 0 auto;
-}
-
 nav.social-medias{
   display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 50px;
 }
+
+nav.social-medias ul{
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+nav.social-medias ul li{
+  margin-left: 10px;
+}
+
+header{
+  background: #FBFCFD;
+  border-top: 1px solid #E7EAEF;
+  border-bottom: 1px solid #E7EAEF;
+}
+
+header div{
+  padding: 17px 0;
+}
+
