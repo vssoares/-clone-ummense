@@ -6,6 +6,8 @@ body{
 div.container{
   width: 1160px;
   margin: 0 auto;
-  background: #000;
-  height: 100vh;
+}
+
+nav.social-medias{
+  display: flex;
 }
