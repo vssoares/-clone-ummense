@@ -1,0 +1,25 @@
+
+section.newsletter {
+  background: #364E62;
+  color: #fff;
+  padding: 90px 0;
+}
+section.newsletter div.formulario{
+  width: 840px;
+  margin: 0 auto;
+}
+section.newsletter div.formulario div.box-top{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+section.newsletter div.formulario div.box-top div{
+  width: 300px;
+}
+section.newsletter div.formulario div.box-top div.last{
+  width: 190px;
+}
+section.newsletter div.formulario div.box-down{
+  display: flex;
+  justify-content: space-between;
+}

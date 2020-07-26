@@ -1,0 +1,11 @@
+
+
+
+
+footer{
+  padding: 35px 0;
+}
+footer div.rodape{
+  display: flex;
+  justify-content: space-between;
+}

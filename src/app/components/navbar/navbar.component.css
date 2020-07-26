@@ -1,0 +1,14 @@
+
+
+nav.social-medias{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 50px;
+}
+nav.social-medias ul{
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}

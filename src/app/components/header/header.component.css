@@ -1,0 +1,9 @@
+header{
+  background: #FBFCFD;
+  border-top: 1px solid #E7EAEF;
+  border-bottom: 1px solid #E7EAEF;
+}
+
+header div{
+  padding: 17px 0;
+}
