@@ -1,4 +1,4 @@
-import { routing } from './app.routing';
+import { AppRoutingModule } from './app-routing.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -11,6 +11,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ContatoComponent } from './pages/contato/contato.component';
 
 @NgModule({
+
   declarations: [
     AppComponent,
     HomeComponent,
@@ -22,7 +23,7 @@ import { ContatoComponent } from './pages/contato/contato.component';
   ],
   imports: [
     BrowserModule,
-    routing
+    AppRoutingModule 
   ],
   providers: [],
   bootstrap: [AppComponent]
