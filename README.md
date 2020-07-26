@@ -1,27 +1,40 @@
-# CloneUmmense
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+<h1 align='center'>CloneUmmense</h1>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻instalacao">Instalação</a>
+<br>
 
-## Code scaffolding
+<p align="center">
+  <a>
+    <img src="./src/assets/full-page-home.png" alt="Clone" border="0" height='600px'>
+  </a>
+  <a>
+    <img src="./src/assets/full-page-contato.png" alt="Clone" border="0" height='300px'>
+  </a>
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## :rocket: Tecnologias
 
-## Build
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- [Angular 10](https://reactjs.org)
 
-## Running unit tests
+## 💻 Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Projeto (clone) feito apenas para mostrar minhas habilidades.
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## 💻 Instalação
 
-## Further help
+`npm  installl`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+`ng server`
+
+<br>
+
+Feito com ♥ by ViniciusSoares 
+=======
