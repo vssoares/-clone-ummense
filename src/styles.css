@@ -24,6 +24,12 @@ input{
   border-radius: 4px;
   padding: 20px;  
 }
+input:focus{
+  border: 1px solid #E7EAEF !important;
+}
+textarea:focus{
+  border: 1px solid #E7EAEF !important;
+}
 button{
   background: #8BBD4F;
   width: 190px;
