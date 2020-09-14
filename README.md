@@ -21,7 +21,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Angular 10](https://reactjs.org)
+- [Angular 10](https://angular.io/)
 
 ## 💻 Projeto
 
